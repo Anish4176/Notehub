@@ -5,9 +5,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: cursive;
+  min-height: 100vh;
+  /* background-color: #dec4ff; */
+  background: no-repeat center center;
+  color: #000;
+  ;
+  background-image: url(pencils-erasers-blue.jpg);
+  background-size: cover;
+
+
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+i {
+  cursor: pointer;
+  font-size: 1.5rem;
 }
